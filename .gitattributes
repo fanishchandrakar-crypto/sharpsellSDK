@@ -1,0 +1,5 @@
+Artifacts/Release/App.xcframework/** filter=lfs diff=lfs merge=lfs -text
+Artifacts/Release/FBLPromises.xcframework/** filter=lfs diff=lfs merge=lfs -text
+Artifacts/Release/Flutter.xcframework/** filter=lfs diff=lfs merge=lfs -text
+Artifacts/Release/WebRTC.xcframework/** filter=lfs diff=lfs merge=lfs -text
+Artifacts/Release/daily_flutter.xcframework/** filter=lfs diff=lfs merge=lfs -text
