@@ -19,7 +19,7 @@ let package = Package(
     dependencies: [
         .package(
             url: "https://github.com/enparadigm/SharpsellCore.git",
-            branch: "abc"
+            from: "5.6.7",
         ),
     ],
     targets: [
