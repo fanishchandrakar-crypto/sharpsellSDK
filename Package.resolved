@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "apple-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/moengage/apple-sdk.git",
+      "state" : {
+        "revision" : "a802ce5b5875dca920392cfe62fc4029656a32d9",
+        "version" : "9.23.1"
+      }
+    },
+    {
+      "identity" : "sharpsellcore",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/enparadigm/SharpsellCore.git",
+      "state" : {
+        "revision" : "83c902d3851801340c173d8bbbc4747cfecd5c63",
+        "version" : "5.6.7"
+      }
+    }
+  ],
+  "version" : 2
+}
